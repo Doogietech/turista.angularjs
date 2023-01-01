@@ -1,9 +1,4 @@
 # PROYECTO GRUPAL EN ANGULAR
 
-# INTEGRANTES
+ Doogie Juan Ricardo Velasquez
 
-- Joseph Araujo Guevara 
-- Yanina Olivera
-- Ruth Palomino
-- Refaim Daza
-- Marco Puclla
